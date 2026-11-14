@@ -1,0 +1,12 @@
+../Core/Src/main.c:164:5:main	3
+../Core/Src/main.c:235:6:SystemClock_Config	3
+../Core/Src/main.c:272:13:MX_TIM1_Init	4
+../Core/Src/main.c:318:13:MX_TIM2_Init	4
+../Core/Src/main.c:363:13:MX_TIM3_Init	4
+../Core/Src/main.c:412:13:MX_GPIO_Init	1
+../Core/Src/main.c:461:6:Button_Update	5
+../Core/Src/main.c:485:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:493:6:delay_us	2
+../Core/Src/main.c:500:6:Buzzer_PlayNote	2
+../Core/Src/main.c:522:6:Melody_Task	7
+../Core/Src/main.c:559:6:Error_Handler	1
